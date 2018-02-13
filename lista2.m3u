@@ -52,3 +52,36 @@ http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
 
 #EXTINF:0 tvg-name="TVU | HD" tvg-logo="http://i.imgur.com/XHChUjI.png" , TVU | HD
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/LHn9ofg.png" , Contivision | HD
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/LHn9ofg.png" , Contivision Musica | HD
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/lg6TVYn.png" , Camara de Diputados | SD
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/lg6TVYn.png" , Camara de Diputados (DVR) | SD
+http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ozCnnDg.png" , TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/KO9XhLU.png" , Teletrak | HD
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/KO9XhLU.png" , Sporting | HD
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/QL0Jmm8.png" , Canal Carnaval | HD
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/IuKMKEX.png" , UESTV | SD
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/V0M2tqk.png" , Canal de los Recuerdos | HD
+http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/DAXmZWE.png" , FM Hot | HD
+http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
